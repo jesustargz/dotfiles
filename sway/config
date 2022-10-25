@@ -13,7 +13,7 @@ set $menu dmenu_run -nb '#1a1b26' -sf '#ffffff' -sb '#1a1b26' -nf '#c0caf6' | xa
 
 # Windows
 
-assign [app_id="firefox-bin"] workspace 1
+assign [app_id="firefox"] workspace 1
 assign [app_id="telegram-desktop"] workspace 2
 
 default_border pixel
